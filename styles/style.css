@@ -97,6 +97,10 @@ hr {
     width: 224px;
     height: 104px;
 }
+
+.course {
+    padding-right: 50px;
+}
 .fa-star {
     font-size: 12px;
 }
